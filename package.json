@@ -1,0 +1,21 @@
+{
+  "name": "DevConnect",
+  "version": "1.0.0",
+  "description": "Platform to connect with developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+   "dev": "nodemon src/app.js"
+
+  },
+  "keywords": [
+    "node.js",
+    "js",
+    "backend"
+  ],
+  "author": "Poushali Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
